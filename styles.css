@@ -167,3 +167,17 @@ section
 .btn-rounded{
     border-radius: 30px ;
  }
+
+ .bg-success
+ {
+    background-color: #00c851 !important;
+ }
+
+ .bg-primary {
+    background-color: #4285f4 !important;
+}
+
+.bg-dan
+{
+    background-color: #880e4f !important;
+}
